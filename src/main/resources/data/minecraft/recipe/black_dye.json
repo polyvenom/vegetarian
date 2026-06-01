@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "group": "black_dye",
+  "ingredients": [
+    "#c:black_inks"
+  ],
+  "result": {
+    "id": "minecraft:black_dye"
+  }
+}

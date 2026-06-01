@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "minecraft:brown_mushroom",
+    "minecraft:beetroot"
+  ],
+  "result": {
+    "id": "vegetarian:raw_improbable_bacon"
+  }
+}

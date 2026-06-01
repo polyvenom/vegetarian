@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:glow_lichen",
+  "result": {
+    "id": "vegetarian:glow_ink_bottle",
+    "count": 1
+  }
+}

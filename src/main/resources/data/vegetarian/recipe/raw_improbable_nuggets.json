@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    "minecraft:brown_mushroom",
+    "minecraft:wheat_seeds"
+  ],
+  "result": {
+    "id": "vegetarian:raw_improbable_nuggets"
+  }
+}

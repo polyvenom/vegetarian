@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ingredient": {
+      "conditions": {
+        "items": [{"items": "vegetarian:raw_improbable_nuggets"}]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "vegetarian:cook_improbable_nuggets_smoking"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [["has_the_recipe", "has_ingredient"]],
+  "rewards": {
+    "recipes": ["vegetarian:cook_improbable_nuggets_smoking"]
+  }
+}

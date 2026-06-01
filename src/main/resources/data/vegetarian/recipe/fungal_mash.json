@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:brown_mushroom",
+    "minecraft:brown_mushroom",
+    "minecraft:dirt",
+    "minecraft:bone_meal"
+  ],
+  "result": {
+    "id": "vegetarian:fungal_mash"
+  }
+}

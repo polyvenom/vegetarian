@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": "vegetarian:cured_mycelium"
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "id": "minecraft:leather"
+  }
+}

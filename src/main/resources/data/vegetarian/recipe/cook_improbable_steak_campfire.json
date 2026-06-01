@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "experience": 0.35,
+  "ingredient": "vegetarian:raw_improbable_steak",
+  "result": {
+    "id": "vegetarian:cooked_improbable_steak"
+  }
+}

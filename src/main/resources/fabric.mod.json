@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "vegetarian",
+	"version": "${version}",
+	"name": "The Vegetarian",
+	"description": "Provides plant-based alternatives to every passive-mob drop. Pluck chickens, bottle squids, grow leather from mushrooms, and craft Improbable Meats from the harvest.",
+	"authors": [
+		"tom"
+	],
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.tom.vegetarian.Vegetarian"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~26.1.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

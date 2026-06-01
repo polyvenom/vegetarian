@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": "vegetarian:raw_improbable_bacon",
+  "result": {
+    "id": "vegetarian:cooked_improbable_bacon"
+  }
+}
